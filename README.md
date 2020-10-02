@@ -1,2 +1,2 @@
 # 8QUEEN
-assignment
+assignments
