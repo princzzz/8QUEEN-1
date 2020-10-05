@@ -1,2 +1,2 @@
 # 8QUEEN
-assignment
+cs_assignment
